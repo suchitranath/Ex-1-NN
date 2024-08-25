@@ -1,7 +1,10 @@
 <H3>ENTER YOUR NAME</H3>
+Suchitra Nath
 <H3>ENTER YOUR REGISTER NO.</H3>
+212223220112
 <H3>EX. NO.1</H3>
 <H3>DATE</H3>
+25-08-2024
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
