@@ -40,12 +40,29 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
-TYPE YOUR CODE HERE
 
+![image](https://github.com/user-attachments/assets/ef9f7ade-ff0e-4e05-be2c-641ad3b9bbcf)
+![image](https://github.com/user-attachments/assets/ba093f30-246c-4984-b9a8-5d542528dd17)
+![image](https://github.com/user-attachments/assets/132e89f2-b9e4-4008-a5de-1ee7b8aeec51)
+![image](https://github.com/user-attachments/assets/654eb8a8-4909-47fb-94d2-8f4602a14bd7)
+![image](https://github.com/user-attachments/assets/a7e685c7-b4b8-4ea9-97f8-4a950326bbd5)
+![image](https://github.com/user-attachments/assets/655820db-bf0b-4930-9db8-8b9fb65e7e1a)
+![image](https://github.com/user-attachments/assets/2de55a40-b740-4a27-9b94-1df982f4da9b)
+![image](https://github.com/user-attachments/assets/28ddb03f-4123-4b2c-adfd-56544070542a)
+![image](https://github.com/user-attachments/assets/6c5c9d22-4955-4d5f-a092-9567fa6fda77)
+![image](https://github.com/user-attachments/assets/a24c6f8b-1259-4fed-890b-6999505bf07f)
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
-
+![image](https://github.com/user-attachments/assets/6de25ed5-8706-41de-918e-5dec32dfc9d9)
+![image](https://github.com/user-attachments/assets/cd190d4f-855a-47fb-9926-4aa6189bc136)
+![image](https://github.com/user-attachments/assets/a7d9c5a3-e1ad-4e87-8cfa-e6de3ee778b5)
+![image](https://github.com/user-attachments/assets/bd3059c8-1d8c-4f90-8a06-99c3f4c2e0df)
+![image](https://github.com/user-attachments/assets/0a86f979-2e03-436e-9fdd-72aa677e657a)
+![image](https://github.com/user-attachments/assets/2123dab8-092f-406e-9f4a-396c7a8bea99)
+![image](https://github.com/user-attachments/assets/4cc8f896-0456-4474-a8e9-b03b5e9d8645)
+![image](https://github.com/user-attachments/assets/4860401f-42d6-4b91-b2f4-55cf7c6ca5f5)
+![image](https://github.com/user-attachments/assets/90ed0efd-ab5d-43c7-8974-531f21215c67)
+![image](https://github.com/user-attachments/assets/350686cf-716d-43c4-a4f6-8d6d5abe36a5)
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
